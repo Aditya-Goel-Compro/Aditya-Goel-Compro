@@ -17,8 +17,7 @@ Portfolio :- https://aditya-goel.vercel.app/
 # 💻 Tech Stack:Here's a categorized list of your badges divided into **Frontend**, **Backend**, and **Miscellaneous** sections. I've also maintained the plastic style you used:
 
 ### 🚀 **Frontend**  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white)  

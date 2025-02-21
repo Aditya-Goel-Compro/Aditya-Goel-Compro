@@ -1,7 +1,7 @@
 # 💫 **About Me**
 
 🌱 Hello there! Myself **Aditya Goel**, currently working as a **Software Engineer Intern** at **Compro Technologies** 😎 <br>  
-🔭 **Ex-Web Development Intern** at **GEMS OF JCI** (**MERN Stack**) | **Advanced MERN Stack Developer** | **Java Coder** | **Coding Enthusiast** 👏<br>  
+🔭 **Ex Intern** at **Digital Shift Pvt Ltd** **Acmegrade** **GEMS OF JCI** | **Advanced MERN Stack Developer** | **Java Coder** | **Coding Enthusiast** 👏<br>  
 
 
 Portfolio :- https://aditya-goel.vercel.app/
